@@ -1,0 +1,4 @@
+[submodule "intpath/haval_crm_extension"]
+	path = intpath/haval_crm_extension
+	url = git@github.com:intpath/haval_crm_extension.git
+	branch = master
