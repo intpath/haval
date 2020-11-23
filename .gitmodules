@@ -2,3 +2,8 @@
 	path = intpath/haval_crm_extension
 	url = git@github.com:intpath/haval_crm_extension.git
 	branch = master
+
+[submodule "intpath/report_stock_inventory"]
+	path = intpath/report_stock_inventory
+	url = git@github.com:intpath/report_stock_inventory.git
+	branch = haval
