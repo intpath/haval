@@ -7,3 +7,8 @@
 	path = intpath/report_stock_inventory
 	url = git@github.com:intpath/report_stock_inventory.git
 	branch = haval
+
+[submodule "intpath/car_repair_maintenance_service"]
+	path = intpath/car_repair_maintenance_service
+	url = git@github.com:intpath/car_repair_maintenance_service.git
+	branch = master
