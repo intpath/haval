@@ -12,3 +12,8 @@
 	path = intpath/car_repair_maintenance_service
 	url = git@github.com:intpath/car_repair_maintenance_service.git
 	branch = master
+
+[submodule "intpath/haval_test_drive_form"]
+	path = intpath/haval_test_drive_form
+	url = git@github.com:intpath/haval_test_drive_form.git
+	branch = master
