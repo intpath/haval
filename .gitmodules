@@ -17,3 +17,8 @@
 	path = intpath/haval_test_drive_form
 	url = git@github.com:intpath/haval_test_drive_form.git
 	branch = master
+
+[submodule "intpath/purchase_order_automation_lot_import"]
+	path = intpath/purchase_order_automation_lot_import
+	url = git@github.com:intpath/purchase_order_automation_lot_import.git
+	branch = 14
