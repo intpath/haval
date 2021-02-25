@@ -32,3 +32,8 @@
 	path = intpath/haval_general_ledger_mod
 	url = git@github.com:intpath/haval_general_ledger_mod.git
 	branch = master
+
+[submodule "intpath/haval_product_template_mod"]
+	path = intpath/haval_product_template_mod
+	url = git@github.com:intpath/haval_product_template_mod.git
+	branch = master
