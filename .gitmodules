@@ -37,3 +37,8 @@
 	path = intpath/haval_product_template_mod
 	url = git@github.com:intpath/haval_product_template_mod.git
 	branch = master
+
+[submodule "intpath/mak_extended"]
+	path = intpath/mak_extended
+	url = git@github.com:intpath/mak_extended.git
+	branch = master
