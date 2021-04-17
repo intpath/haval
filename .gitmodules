@@ -42,3 +42,8 @@
 	path = intpath/mak_extended
 	url = git@github.com:intpath/mak_extended.git
 	branch = master
+
+[submodule "intpath/dev_picking_cancel"]
+	path = intpath/dev_picking_cancel
+	url = git@github.com:intpath/dev_picking_cancel.git
+	branch = master
