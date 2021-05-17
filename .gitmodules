@@ -47,3 +47,8 @@
 	path = intpath/dev_picking_cancel
 	url = git@github.com:intpath/dev_picking_cancel.git
 	branch = master
+
+[submodule "intpath/eq_po_multi_warehouse"]
+	path = intpath/eq_po_multi_warehouse
+	url = git@github.com:intpath/eq_po_multi_warehouse.git
+	branch = master
