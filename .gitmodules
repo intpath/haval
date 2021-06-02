@@ -52,3 +52,8 @@
 	path = intpath/eq_po_multi_warehouse
 	url = git@github.com:intpath/eq_po_multi_warehouse.git
 	branch = master
+
+[submodule "intpath/import_picking_with_lot"]
+	path = intpath/import_picking_with_lot
+	url = git@github.com:intpath/import_picking_with_lot.git
+	branch = master
