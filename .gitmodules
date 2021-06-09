@@ -57,3 +57,8 @@
 	path = intpath/import_picking_with_lot
 	url = git@github.com:intpath/import_picking_with_lot.git
 	branch = master
+
+[submodule "intpath/haval_inventory"]
+	path = intpath/haval_inventory
+	url = git@github.com:intpath/haval_inventory.git
+	branch = master
