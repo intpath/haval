@@ -62,3 +62,8 @@
 	path = intpath/haval_inventory
 	url = git@github.com:intpath/haval_inventory.git
 	branch = master
+
+[submodule "intpath/haval_delivery_slip"]
+	path = intpath/haval_delivery_slip
+	url = git@github.com:intpath/haval_delivery_slip.git
+	branch = master
