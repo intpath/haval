@@ -71,4 +71,4 @@
 [submodule "intpath/items_price_privilege"]
 	path = intpath/items_price_privilege
 	url = git@github.com:intpath/items_price_privilege.git
-	branch = odoo13
+	branch = odoo14
