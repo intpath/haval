@@ -67,3 +67,8 @@
 	path = intpath/haval_delivery_slip
 	url = git@github.com:intpath/haval_delivery_slip.git
 	branch = master
+
+[submodule "intpath/items_price_privilege"]
+	path = intpath/items_price_privilege
+	url = git@github.com:intpath/items_price_privilege.git
+	branch = odoo13
