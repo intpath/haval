@@ -72,3 +72,8 @@
 	path = intpath/items_price_privilege
 	url = git@github.com:intpath/items_price_privilege.git
 	branch = odoo14
+
+[submodule "intpath/stock_reverse_landed_costs_app"]
+	path = intpath/stock_reverse_landed_costs_app
+	url = git@github.com:intpath/stock_reverse_landed_costs_app.git
+	branch = master
