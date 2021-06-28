@@ -3,11 +3,6 @@
 	url = git@github.com:intpath/haval_crm_extension.git
 	branch = master
 
-[submodule "intpath/report_stock_inventory"]
-	path = intpath/report_stock_inventory
-	url = git@github.com:intpath/report_stock_inventory.git
-	branch = haval
-
 [submodule "intpath/car_repair_maintenance_service"]
 	path = intpath/car_repair_maintenance_service
 	url = git@github.com:intpath/car_repair_maintenance_service.git
