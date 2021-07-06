@@ -72,3 +72,8 @@
 	path = intpath/stock_reverse_landed_costs_app
 	url = git@github.com:intpath/stock_reverse_landed_costs_app.git
 	branch = master
+
+[submodule "intpath/haval_custom_invoice"]
+	path = intpath/haval_custom_invoice
+	url = git@github.com:intpath/haval_custom_invoice.git
+	branch = master
