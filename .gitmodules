@@ -77,3 +77,8 @@
 	path = intpath/haval_custom_invoice
 	url = git@github.com:intpath/haval_custom_invoice.git
 	branch = master
+
+[submodule "intpath/shifaa_hr"]
+	path = intpath/shifaa_hr
+	url = git@github.com:intpath/shifaa_hr.git
+	branch = master
