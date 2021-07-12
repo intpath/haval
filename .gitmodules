@@ -82,3 +82,8 @@
 	path = intpath/shifaa_hr
 	url = git@github.com:intpath/shifaa_hr.git
 	branch = master
+
+[submodule "intpath/haval_saleorder_custom"]
+	path = intpath/haval_saleorder_custom
+	url = git@github.com:intpath/haval_saleorder_custom.git
+	branch = master
