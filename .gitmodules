@@ -87,3 +87,8 @@
 	path = intpath/haval_saleorder_custom
 	url = git@github.com:intpath/haval_saleorder_custom.git
 	branch = master
+
+[submodule "intpath/purchase_team_app"]
+	path = intpath/purchase_team_app
+	url = git@github.com:intpath/purchase_team_app.git
+	branch = master
