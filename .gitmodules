@@ -92,3 +92,8 @@
 	path = intpath/purchase_team_app
 	url = git@github.com:intpath/purchase_team_app.git
 	branch = master
+
+[submodule "intpath/car_repair_labor_sp_total"]
+	path = intpath/car_repair_labor_sp_total
+	url = git@github.com:intpath/car_repair_labor_sp_total.git
+	branch = master
