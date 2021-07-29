@@ -93,11 +93,6 @@
 	url = git@github.com:intpath/purchase_team_app.git
 	branch = master
 
-[submodule "intpath/car_repair_labor_sp_total"]
-	path = intpath/car_repair_labor_sp_total
-	url = git@github.com:intpath/car_repair_labor_sp_total.git
-	branch = master
-
 [submodule "intpath/om_mass_confirm_cancel"]
 	path = intpath/om_mass_confirm_cancel
 	url = git@github.com:intpath/om_mass_confirm_cancel.git
