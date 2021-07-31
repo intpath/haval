@@ -98,7 +98,3 @@
 	url = git@github.com:intpath/om_mass_confirm_cancel.git
 	branch = master
 
-[submodule "intpath/stock_picking_cancel_cs"]
-	path = intpath/stock_picking_cancel_cs
-	url = git@github.com:intpath/stock_picking_cancel_cs.git
-	branch = master
