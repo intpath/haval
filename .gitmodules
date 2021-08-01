@@ -102,3 +102,8 @@
 	path = intpath/Payroll_multicurrency
 	url = git@github.com:intpath/Payroll_multicurrency.git
 	branch = master
+
+[submodule "intpath/hr_payroll_account_multi_currency_journal"]
+	path = intpath/hr_payroll_account_multi_currency_journal
+	url = git@github.com:intpath/hr_payroll_account_multi_currency_journal.git
+	branch = 14
