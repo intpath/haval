@@ -97,3 +97,8 @@
 	path = intpath/om_mass_confirm_cancel
 	url = git@github.com:intpath/om_mass_confirm_cancel.git
 	branch = master
+
+[submodule "intpath/hr_payroll_account_multi_currency_journal"]
+	path = intpath/hr_payroll_account_multi_currency_journal
+	url = git@github.com:intpath/hr_payroll_account_multi_currency_journal.git
+	branch = 14
