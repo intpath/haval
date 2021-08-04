@@ -102,3 +102,8 @@
 	path = intpath/hr_payroll_account_multi_currency_journal
 	url = git@github.com:intpath/hr_payroll_account_multi_currency_journal.git
 	branch = 14
+
+[submodule "intpath/temp_can_cancel"]
+	path = intpath/temp_can_cancel
+	url = git@github.com:intpath/temp_can_cancel.git
+	branch = master
