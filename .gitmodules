@@ -107,3 +107,8 @@
 	path = intpath/temp_can_cancel
 	url = git@github.com:intpath/temp_can_cancel.git
 	branch = master
+
+[submodule "intpath/print_journal_entries"]
+	path = intpath/print_journal_entries
+	url = git@github.com:intpath/print_journal_entries.git
+	branch = master
