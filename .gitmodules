@@ -112,3 +112,8 @@
 	path = intpath/print_journal_entries
 	url = git@github.com:intpath/print_journal_entries.git
 	branch = master
+
+[submodule "intpath/inventory_adjustment_cancel_app"]
+	path = intpath/inventory_adjustment_cancel_app
+	url = git@github.com:intpath/inventory_adjustment_cancel_app.git
+	branch = master
