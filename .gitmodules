@@ -117,3 +117,8 @@
 	path = intpath/inventory_adjustment_cancel_app
 	url = git@github.com:intpath/inventory_adjustment_cancel_app.git
 	branch = master
+
+[submodule "intpath/ip_user_restrict_product_access"]
+	path = intpath/ip_user_restrict_product_access
+	url = git@github.com:intpath/ip_user_restrict_product_access.git
+	branch = master
