@@ -127,3 +127,8 @@
 	path = intpath/delete_unused_products
 	url = git@github.com:intpath/delete_unused_products.git
 	branch = master
+
+[submodule "intpath/haval_crm_modifications"]
+	path = intpath/haval_crm_modifications
+	url = git@github.com:intpath/haval_crm_modifications.git
+	branch = master
