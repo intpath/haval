@@ -132,3 +132,8 @@
 	path = intpath/haval_crm_modifications
 	url = git@github.com:intpath/haval_crm_modifications.git
 	branch = master
+
+[submodule "intpath/purchase_historical_date"]
+	path = intpath/purchase_historical_date
+	url = git@github.com:Integrated-Path/purchase_historical_date.git
+	branch = master
