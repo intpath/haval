@@ -137,3 +137,8 @@
 	path = intpath/purchase_historical_date
 	url = git@github.com:Integrated-Path/purchase_historical_date.git
 	branch = master
+
+[submodule "Integrated-Path/haval_hr"]
+	path = Integrated-Path/haval_hr
+	url = git@github.com:Integrated-Path/haval_hr.git
+	branch = master
